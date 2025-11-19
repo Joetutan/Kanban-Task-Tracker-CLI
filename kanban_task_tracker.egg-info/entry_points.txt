@@ -1,0 +1,2 @@
+[console_scripts]
+task-cli = app.main:main

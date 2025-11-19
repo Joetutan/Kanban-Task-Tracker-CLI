@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+app/__init__.py
+app/main.py
+kanban_task_tracker.egg-info/PKG-INFO
+kanban_task_tracker.egg-info/SOURCES.txt
+kanban_task_tracker.egg-info/dependency_links.txt
+kanban_task_tracker.egg-info/entry_points.txt
+kanban_task_tracker.egg-info/top_level.txt

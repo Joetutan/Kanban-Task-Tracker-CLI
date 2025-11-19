@@ -1,0 +1,2 @@
+[console_scripts]
+task-cli = src.main:main
